@@ -13,4 +13,4 @@ Data Structures and Algorithms using C++.
 - Strings (coming soon)
 
 ## Goal
-To build strong problem-solving skills for placements..
+To build strong problem-solving skills for placements.
